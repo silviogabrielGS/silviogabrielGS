@@ -17,7 +17,7 @@
 <div>
   <a href="https://instagram.com/_silviogabriel_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://www.facebook.com/profile.php?id=100011678854769" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-   <a href="https://mail.google.com/mail/u/0/#drafts?compose=CllgCJZWPQdCgCZzHLJbgNBGwDHrHDSlzMfjvCWGZKTtcDnlbKpvxfqJpmhVLgBVbdstCxBqvRg" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href="silviogabrielgsantana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
   
