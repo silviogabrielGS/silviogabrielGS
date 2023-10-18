@@ -21,8 +21,8 @@
 <div>
   <a href="https://www.instagram.com/_silviogabriel_/"><img align="center" height="40" width="170" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/silvio-gabriel-992b8622b/"><img align="center" height="40" width="150" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://gmail.google.com/silviogabrielgsantana@gmail.com" ><img align="center" height="40" width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a><img align="center" height="40" width="150" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="mailto:silviogabrielgsantana@gmail.com" ><img align="center" height="40" width="140" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100011678854769" ><img align="center" height="40" width="150" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </div>
 
 
