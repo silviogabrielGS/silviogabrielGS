@@ -8,6 +8,7 @@
 
 
 <div style="display: inline_block">
+ <br>
  <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Javascript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
@@ -25,9 +26,6 @@
   <a href="https://www.facebook.com/profile.php?id=100011678854769" ><img align="center" height="40" width="150" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 </div>
 
-<div>
- <p> Eu sou o Silvio , tenho 18 anos e estou terminando o ensino médio, estudo programação desde os meus 16 anos, sempre fui apaixonado por tecnologia, parte disso vem do meu pai, pois ele é desnvolvedor Java, então sempre tive curiosidade para saber como as coisas funcionavam, sempre fui uma pessoa autodidata, procurando cursinhos de graça no youtube e em diversas plataformas, no segundo semestre de 2023 entrei para o PROA, um Bootcamp para aprender desenvolvimento web Java, me desenvolvi muito lá, e foi uma das minhas melhores experiências, lá dentro desenvolvemos o Limpay, nesse projeto atuei como desenvolvedor Full Stack e Scrum Master da equipe, fizemos uma plataforma para trazer acessibilidade entre profissionais de limpeza e contratantes. </p>
-</div>
 
 
 
